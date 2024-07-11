@@ -1,0 +1,32 @@
+{
+  "notes": [
+    {
+      "title": "準備作品集",
+      "id": 1,
+      "date": "Thu May 11 2024",
+      "content": "修飾作品，上線，寫簡介",
+      "category": "work"
+    },
+    {
+      "title": "準備履歷",
+      "id": 0,
+      "date": "Thu June 11 2024",
+      "content": "打草稿，寫完內容，潤稿",
+      "category": "work"
+    },
+    {
+      "id": "5b1a",
+      "title": "寄出檔案",
+      "content": "打包程式碼準備寄送",
+      "category": "private",
+      "date": "Fri Jul 12 2024"
+    },
+    {
+      "id": "3f0e",
+      "title": "週末出去玩",
+      "content": "陽明山一日遊",
+      "category": "family",
+      "date": "Fri Jul 12 2024"
+    }
+  ]
+}
